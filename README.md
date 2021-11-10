@@ -45,7 +45,7 @@ make install
 
 #### Zplugin
 
-If you use Zshell then there's a nice way of installing – via [Zplugin](https://github.com/zdharma/zplugin):
+If you use Zshell then there's a nice way of installing – via [Zplugin](https://github.com/zdharma-continuum/zinit):
 
 ```zsh
 zplugin ice as"program" pick"$ZPFX/bin/git-(url|guclone)" make"install PREFIX=$ZPFX"
