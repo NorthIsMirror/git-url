@@ -1,8 +1,8 @@
 [submodule "giturl"]
 	path = giturl
-	url = https://github.com/zdharma-continuum/giturl
+	url = git@github.com:NorthIsMirror/giturl
         ignore = untracked
 [submodule "cgiturl"]
 	path = cgiturl
-	url = https://github.com/zdharma-continuum/cgiturl
+	url = git@github.com:NorthIsMirror/cgiturl
         ignore = untracked
